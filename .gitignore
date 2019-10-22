@@ -1,5 +1,10 @@
 # built application files
 *.lck
+*.stl
+*.gcode
+*.3mf
+*.zip
+*.tgz
 
 # Java class files
 *.class
