@@ -5,6 +5,7 @@
 *.3mf
 *.zip
 *.tgz
+*.step
 
 # Java class files
 *.class
