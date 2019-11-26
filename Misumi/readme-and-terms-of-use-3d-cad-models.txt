@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 05/01/2019 on PARTcommunity/PARTserver:
+EN   Your download at 11/23/2019 on PARTcommunity/PARTserver:
 
        Dear user,
        
