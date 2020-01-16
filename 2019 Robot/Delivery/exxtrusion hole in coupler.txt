@@ -1,7 +1,11 @@
 .375 in from edge
 .515 up from bottom -.152 hole
 	.152 hole
-	.400 counter bore for .375 washer
-	.050 washer + .138 screw head + .025 slop = .213 counterbore depth or .25 screw + .02 clearance to extrusion floor = .270 (.515-.27) = .245 counterbore depth
-	.3125 screw
+	.400 counter bore diam for .375 washer
+	OR
+	.350 counterbore diam for .321 truss head screw
+	.050 washer + .138 screw head + .025 slop = .213 counterbore depth OR .25 screw + .02 clearance to extrusion floor = .270 (.515-.27) = .245 counterbore depth
+	OR
+	.086 truss head screw height + .025 slop = .111; .515 -.02 clearance to extrusion floow - .111 = .384 OR .515 - .375 = .140 -.02 = .120 counterbore depth
+	.25 screw
 	
